@@ -1,8 +1,8 @@
 "# Address-Book-using-Python" 
 
-# Address Book
+# ADDRESS BOOK USING PYTHON
 
-## Overview
+## Summary
 
 The "Address Book Project" involves creating a graphical user interface (GUI) application to manage contact information. The project
 includes functionality to add, edit, delete, and view contacts, storing data in a file system. The GUI is designed for user-friendly
