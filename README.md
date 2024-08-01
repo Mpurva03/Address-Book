@@ -21,28 +21,8 @@ contact information is organized and accessible, enhancing user convenience and 
 + **Search Functionality**: Enables quick search of contacts based on various criteria
 + **Add/Edit/Delete Contacts**: Options to add new contacts, edit existing ones, or delete them.
 
-## Technologies Used
 
-- **Python:** The primary programming language used.
-- **File Handling:** To store and retrieve contact data.
-- **Command-Line Interface (CLI):** For user interaction.
 
-## Getting Started
 
-### Prerequisites
-
-- Python 3.x installed on your system.
-
-### Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/address-book.git
-
-2. **Navigate to the Project Directory:**
-   cd Address_Book_In_Python/Address-Book
-
-3. **Run the Application::**
-   python AddressBook.py
    
 
